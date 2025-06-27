@@ -56,7 +56,7 @@ namespace clase_de_producto
             public void mostrarCondicionesAlmacenamiento()
             {
                 Console.WriteLine("Fecha de caducidad: " + fechadecaducidad);
-                Console.WriteLine("Temperatura recomendada: " + temperaturarecomendada + "");
+                Console.WriteLine("Temperatura recomendada: " + temperaturarecomendada + "C°");
             }
         }
         class producto 
